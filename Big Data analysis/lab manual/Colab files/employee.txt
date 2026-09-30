@@ -1,0 +1,11 @@
+employee_id,employee_name,gender,department,salary
+EMP001,Aarav Sharma,Male,Engineering,75000
+EMP002,Emma Johnson,Female,Marketing,68000
+EMP003,Liam Wilson,Male,Finance,72000
+EMP004,Sophia Brown,Female,Human Resources,65000
+EMP005,Noah Davis,Male,Engineering,82000
+EMP006,Olivia Miller,Female,Sales,70000
+EMP007,Ethan Garcia,Male,Finance,76000
+EMP008,Ava Martinez,Female,Marketing,69000
+EMP009,James Anderson,Male,Engineering,88000
+EMP010,Isabella Thomas,Female,Human Resources,67000
