@@ -1,0 +1,17 @@
+D:\Courses\CSE 303\USA_Housing.csv
+
+Avg. Area Income
+Avg. Area House Age
+Avg. Area Number of Rooms
+Avg. Area Number of Bedrooms
+Area Population
+Price 
+Address
+
+Avg. Area Income
+Avg. Area House Age
+Avg. Area Number of Rooms
+Avg. Area Number of Bedrooms
+Area Population
+
+Price
